@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.heading {
+  color: rgb(29, 31, 30);
+  font-style: italic;
+  font-size: 30px;
+}
+
+.heading2 {
+  color:blueviolet;
+  font-size: 25px;
+}
+
+#result {
+  color: burlywood;
+  font-size: 20px;
+}
+
+#wurzel {
+  color:chocolate;
+  font-size: 20px;
+
+}
+
+#zufallno {
+  color:blue;
+  font-size: 20px;
+  
+}
+
+#aktuell {
+color: darkgreen;
+font-size: 20px;
+}
